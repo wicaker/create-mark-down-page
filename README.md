@@ -1,9 +1,8 @@
 # My First Mark Down
 
-## Masih meraba-raba
+## Days-2 of my Coding Bootcamps in Refactory
 
-<p>I think I'll use it to format all of my documents from now on.</p>
+<p>I Want to tell you litle bit of my experience when i got my course in Refactory Bootcamp</p>
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
 
-Check my Portfolio [Wicaker](https://wicaker.github.io "Wicaker-Portfolio").
+Check my Portfolio Before you Continue to reading [Wicaker](https://wicaker.github.io "Wicaker-Portfolio").
